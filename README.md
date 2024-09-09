@@ -1,5 +1,5 @@
-1. Watch [this video]() to learn how to build your blaster.
-2. Download the DFRobot DFPlayer Mini library from here: https://github.com/DFRobot/DFRobotDFPlayerMini and install it to the Arduino IDE (go to Sketch>Include Library>Add .ZIP Library and select the downloaded library)
+1. Watch [this video](https://www.youtube.com/watch?v=nZHo5qRtyhI) to learn how to build your blaster.
+2. Download the DFRobot DFPlayer Mini library from https://github.com/DFRobot/DFRobotDFPlayerMini and install it to the Arduino IDE (go to Sketch>Include Library>Add .ZIP Library and select the downloaded library)
 3. Download the sounds from the `SD` folder onto your SD (do NOT have them in the folder, the CONTENTS of the folder should become the CONTENTS of the SD. The SD should not have ANY folders.)
 4. Upload the code to your Arduino
 5. Enjoy your blaster!
